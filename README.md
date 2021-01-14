@@ -9,7 +9,7 @@ Submit:
 
 |Criteria| Evaluation| Scoring |
 |---------|-|-|
-|Runs without Error| Absolutely must be YES | YES/NO |
+|Runs without Error| Absolutely must be YES | 0/10 |
 |Ouptput| Does code produce correct output | 1-5 |
 |Code Readable| Good use of whitespace,etc | 1-5 |
 |Understandable| Concise use of helpful comments - see cars_script.R You are welcome to delete the explanation comments | 1-5 |
