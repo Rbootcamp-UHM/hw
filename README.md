@@ -7,12 +7,12 @@ Submit:
 1. Your final script ending in `.R`
 2. Your output files (`.csv` files)
 
-|Criteria| Evaluation|
-|---------|-|
-|Runs without Error| Absolutely must be YES |
-|Code Produces Correct Ouptput| 1-5 |
-|Code Readable| Good use of whitespace,etc, 1-5 |
-|Understandable| Concise use of helpful comments - see cars_script.R You are welcome to delete the explanation comments, 1-5 |
+|Criteria| Evaluation| Scoring |
+|---------|-|-|
+|Runs without Error| Absolutely must be YES | YES/NO |
+|Ouptput| Does code produce correct output | 1-5 |
+|Code Readable| Good use of whitespace,etc | 1-5 |
+|Understandable| Concise use of helpful comments - see cars_script.R You are welcome to delete the explanation comments | 1-5 |
 
 
 ## The Idea: 
