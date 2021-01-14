@@ -3,6 +3,9 @@
 Your task is to build off of the `cars_script.R`. Start by studying that working script. Run it line by line to understand what it does, then try running the script all at once using `source("cars_script.R")` from within R. It should run without error. You will want to follow these steps to check that your new and improved script runs without error as well. 
 
 ## <span style="color:blue">due by Monday at midnight</span>
+Submit:
+1. Your final script ending in `.R`
+2. Your output files (`.csv` files)
 
 ## The Idea: 
 - The original script opens the built-in dataset cars, reassigns variables, and creates a bivariate plot to visualize speed and diststance. It also calculates the regression line (the best-fit line to the points), and plots that line on top of the bivariate plot. It then saves the dataframe to file on your working directory. The dataset contains 50 observations of speed and distance. 
@@ -14,7 +17,7 @@ Your task is to build off of the `cars_script.R`. Start by studying that working
 1. Create a folder for this work within your `Rclass` directory on your computer. If you wish you could do `Rclass/Homework` and then clone the `hw1-cars` repository there. Or just make a folder. Clone this repository or copy the files there. If you have git installed, you would do from within your `Rclass\Homework` directory:
 
 ```
-git clone 
+git clone https://github.com/Rbootcamp-UHM/hw1-cars.git
 ```
 
 2. Modify `cars_script_stub.R`  I have put comments in there to prompt you for what you need to do. (To ease your way into the script-writing waters:) 
