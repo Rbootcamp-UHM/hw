@@ -7,6 +7,14 @@ Submit:
 1. Your final script ending in `.R`
 2. Your output files (`.csv` files)
 
+|Criteria| Evaluation|
+|---------|-|
+|Runs without Error| Absolutely must be YES |
+|Code Produces Correct Ouptput| 1-5 |
+|Code Readable| Good use of whitespace,etc, 1-5 |
+|Understandable| Concise use of helpful comments - see cars_script.R You are welcome to delete the explanation comments, 1-5 |
+
+
 ## The Idea: 
 - The original script opens the built-in dataset cars, reassigns variables, and creates a bivariate plot to visualize speed and diststance. It also calculates the regression line (the best-fit line to the points), and plots that line on top of the bivariate plot. It then saves the dataframe to file on your working directory. The dataset contains 50 observations of speed and distance. 
 
