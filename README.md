@@ -48,4 +48,14 @@ Finally push up the changes
 ```
 git push origin main
 ```
-# Sorry everyone! My error in class was that I was trying `git push origin master` when `master` should have been `main`
+## Sorry everyone! My error in class was that I was trying `git push origin master` when `master` should have been `main`
+
+## For this first homework, Iʻll allow you 3 tries
+1. Submit your homework but pushing your work up to your homework repository
+```
+git add -A
+git commit -m "Submission #1"
+git push origin main
+```
+2. Go on the website for your repository
+3. Generate an issue or use the feedback under pull request to ask me to check your homework. Be sure to tag me @mbutler808
